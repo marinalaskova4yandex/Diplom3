@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+allure-results/
+drivers/
+geckodriver.log
+chromedriver.log
+.env
+secrets.json
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
